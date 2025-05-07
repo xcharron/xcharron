@@ -21,7 +21,7 @@ I’ve worn every hat from CEO and CMO to producer and founder — building from
 
 ---
 
-### ⚒Notable Skills & Experience
+### Notable Skills & Experience
 
 - Built and ran Enter360, a creative+dev agency powering FoxPro, SWFA, and other national brands
 - Directed and produced media for TV, retail, and software — from packaging to platform
