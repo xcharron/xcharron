@@ -50,9 +50,10 @@ I’ve worn every hat from CEO and CMO to producer and founder — building from
 
 ### Contact & Collab
 
-Available for strategic consulting, product partnerships, and select advisory roles  
+- Available for strategic consulting, product partnerships, and select advisory roles
+- [LinkedIn](https://linkedin.com/in/sheldoncharron)
 
-~ Sheldon Charron  ·  [LinkedIn](https://linkedin.com/in/sheldoncharron)
+~ Sheldon Charron
 
 ---
 
