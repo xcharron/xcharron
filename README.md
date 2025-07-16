@@ -8,7 +8,7 @@
 
 I’m a builder, strategist, and product operator with a 25-year track record of launching companies, scaling platforms, and creating competitive advantage through story, structure, and software.
 
-I’ve worn every hat from CEO and CMO to producer and founder — building from zero to millions across media, SaaS, hardware, and direct-to-consumer. Today, my focus is on the **intersection of AI, national security, and niche consumer software**.
+I’ve worn every hat from CEO, CMO and Creative Director to producer and founder — building from zero to millions across media, SaaS, hardware, and direct-to-consumer. Today, my focus is on the **intersection of AI, national security, and niche consumer software**.
 
 ---
 
@@ -33,9 +33,10 @@ I’ve worn every hat from CEO and CMO to producer and founder — building from
 ### What I’m Building Now
 
 - **CallTuneAI** – AI sound design platform for predator hunting, wildlife research & field use
-- **Preyr Outdoors** – DTC hunting gear brand integrated with AI-powered tools
+- **PREYR** – DTC thermal optics, hunting gear brand integrated with AI-powered tools
 - **SaaSAI** – Venture studio for micro-SaaS apps with military & consumer crossover potential
 - **SkyHound Robotics** *(in early concept)* – Autonomous AI decoy & perimeter defense bots
+- **DSCRT** - Niche-focussed discreet payment fintech platform
 
 ---
 
