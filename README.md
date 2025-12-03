@@ -8,7 +8,7 @@
 
 I’m a builder, strategist, and product operator with a 25-year track record of launching companies, scaling platforms, and creating competitive advantage through story, structure, and software.
 
-I’ve worn every hat from CEO, CMO and Creative Director to producer and founder — building from zero to millions across media, SaaS, hardware, and direct-to-consumer. Today, my focus is on the **intersection of AI, national security, and niche consumer software**.
+I’ve worn every hat from CEO, CMO and Creative Director to producer and founder — building from zero to millions across media, SaaS, hardware, and direct-to-consumer. Today, my focus is on the **intersection of AI, national security, rapid deplyment of niche consumer software and AI-agents for marketing**.
 
 ---
 
