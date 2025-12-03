@@ -62,4 +62,4 @@ Sheldon Charron<br>
 
 ### Vision
 
-Build smarter, faster, more resilient systems — for people, for profit, for country.
+Build smarter, faster, more resilient systems - for people, for profit, for country.
