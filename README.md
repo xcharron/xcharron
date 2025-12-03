@@ -1,4 +1,4 @@
-# SC
+# Sheldon Charron
 
 **Head of Product | Serial Founder | AI Strategist | Product-Led Operator**
 
@@ -24,6 +24,8 @@ I’ve worn every hat from CEO, CMO and Creative Director to producer and founde
 ### Notable Skills & Experience
 
 - Built and ran Enter360, a creative+dev agency powering FoxPro, SWFA, and other national brands
+- Built and sold Umbilical Software, an enterprise-level ecommerce alternative to Dydacomp's Mail Order Manager
+- Built several micro application to solve business problems: price match guarantees, photo contests, social forums, trade-in/used equimpent appraisal systems, etc.
 - Directed and produced media for TV, retail, and software — from packaging to platform
 - Saved clients millions by consolidating tech stacks and repositioning product portfolios
 - Deep experience with buyer behavior, funnel psychology, and UI/UX for conversion
