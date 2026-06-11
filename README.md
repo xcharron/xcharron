@@ -8,7 +8,7 @@
 
 I’m a builder, strategist, and product operator with a 25-year track record of launching companies, scaling platforms, and creating competitive advantage through story, structure, and software.
 
-I’ve worn every hat from CEO, CMO and Creative Director to producer and founder — building from zero to millions across media, SaaS, hardware, and direct-to-consumer. Today, my focus is on the **intersection of AI, national security, rapid deplyment of niche consumer software and AI-agents for marketing**.
+I’ve worn every hat from CEO, CMO and Creative Director to producer and founder — building from zero to millions across media, SaaS, hardware, and direct-to-consumer. Today, my focus is on the **intersection of AI, national security, rapid deployment of niche consumer software and AI-agents for marketing**.
 
 ---
 
@@ -25,7 +25,7 @@ I’ve worn every hat from CEO, CMO and Creative Director to producer and founde
 
 - Built and ran Enter360, a creative+dev agency powering FoxPro, SWFA, and other national brands
 - Built and sold Umbilical Software, an enterprise-level ecommerce alternative to Dydacomp's Mail Order Manager
-- Built several micro application to solve business problems: price match guarantees, photo contests, social forums, trade-in/used equimpent appraisal systems, etc.
+- Built several micro applications to solve business problems: price match guarantees, photo contests, social forums, trade-in/used equimpent appraisal systems, etc.
 - Directed and produced media for TV, retail, and software — from packaging to platform
 - Saved clients millions by consolidating tech stacks and repositioning product portfolios
 - Deep experience with buyer behavior, funnel psychology, and UI/UX for conversion
