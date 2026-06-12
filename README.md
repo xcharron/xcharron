@@ -1,65 +1,47 @@
+# GitHub README rewrite — draft for github.com/xcharron
+
+**Purpose:** make the profile safe and useful when recruiters find it. Marketing/brand leader who actually ships with AI. No consulting availability, no venture inventory, no divided-attention signals. Paste everything below the line into `xcharron/README.md`.
+
+Also update the short profile bio (left sidebar) to match. Suggested bio:
+> Marketing & brand leader. Founder of Enter360. I build with AI. Austin, TX.
+
+---
+
 # Sheldon Charron
 
-**Head of Product | Serial Founder | AI Strategist | Product-Led Operator**
+**Marketing & Brand Leader | Founder, Enter360 | Builds with AI**
+
+## Who I Am
+
+Marketing and brand leader with a 25-year track record of building companies, brands, and the revenue systems behind them. I founded and ran Enter360, a full-service strategy and creative shop, where I led creative and development teams for national consumer brands, SaaS, hospitality, and healthcare clients. Based in Austin, TX.
+
+I'm not a software engineer. I'm the marketing leader who understands engineers, has led development teams since the early 2000s, and now uses AI to build working products instead of slide decks about them.
+
+## Proof I Ship
+
+- **[CallTune AI](https://www.calltuneai.com)** - AI sound-design platform for predator hunting and wildlife work. I took it from idea to paying subscribers by directing AI agents and a small dev team, then engineered it to run itself. It needs almost no time from me now, which was the point.
+- **Umbilical Software** - founded the company, led the team that built an enterprise e-commerce and order-management platform, and commercialized it as SaaS. Anchor client SWFA grew 500x in 18 months.
+- **Enter360** - 20+ years leading brand, campaign, broadcast, and platform work for clients like FoxPro and SWFA, from packaging to e-commerce to documentary television.
+- The contribution graph below is what a marketer who builds actually looks like.
+
+## What I'm Looking At
+
+- How AI changes the economics of creative production and go-to-market
+- Positioning and storytelling for complex technical products
+- Systems that shrink time-to-revenue for new offerings
+
+## Find Me
+
+- Portfolio: [sheldoncharron.com](https://sheldoncharron.com)
+- LinkedIn: [linkedin.com/in/sheldoncharron](https://linkedin.com/in/sheldoncharron)
 
 ---
 
-### Who I Am
-
-I’m a builder, strategist, and product operator with a 25-year track record of launching companies, scaling platforms, and creating competitive advantage through story, structure, creative and software.
-
-I’ve worn every hat from CEO, CMO and Creative Director to producer and founder — building from zero to millions across media, SaaS, hardware, and direct-to-consumer. Today, my focus is on the **intersection of AI, national security, rapid deployment of niche consumer software and AI-agents for marketing**.
-
----
-
-### What I Do
-
-- **Build AI-driven SaaS platforms** from idea to revenue
-- **Redesign underperforming systems** to unlock monetization & scale
-- **Lead product vision, GTM strategy & execution** for founder-led brands
-- **Bridge creative, technical, and operational gaps** in startup teams
-
----
-
-### Notable Skills & Experience
-
-- Built and ran Enter360, a creative+dev agency powering FoxPro, SWFA, and other national brands
-- Built and sold Umbilical Software, an enterprise-level ecommerce alternative to Dydacomp's Mail Order Manager
-- Built several micro applications to solve business problems: price match guarantees, photo contests, social forums, trade-in/used equimpent appraisal systems, etc.
-- Directed and produced media for TV, retail, and software — from packaging to platform
-- Saved clients millions by consolidating tech stacks and repositioning product portfolios
-- Deep experience with buyer behavior, funnel psychology, and UI/UX for conversion
-
----
-
-### What I’m Building Now
-
-- **CallTuneAI** – AI sound design platform for predator hunting, wildlife research & field use
-- **PREYR** – DTC thermal optics, hunting gear brand integrated with AI-powered tools
-- **SaaSAI** – Venture studio for micro-SaaS apps with military & consumer crossover potential
-- **SkyHound Robotics** *(in early concept)* – Autonomous AI decoy & perimeter defense bots
-- **DSCRT** - Niche-focussed discreet payment fintech platform
-
----
-
-### What I’m Exploring
-
-- Dual-use AI products for military, defense, ranch, & national security
-- Intelligent infrastructure for American manufacturing & rural deployment
-- Applications of AI in border security, food production, and tactical automation
-- Systems that shrink time-to-revenue for solo founders and niche verticals
-
----
-
-### Contact & Collab
-
-Available for strategic consulting, product partnerships, and select advisory roles
-
-Sheldon Charron<br>
-[LinkedIn](https://linkedin.com/in/sheldoncharron)
-
----
-
-### Vision
-
-Build smarter, faster, more resilient systems - for people, for profit, for country.
+**Removed from the old version and why:**
+- "Head of Product | Serial Founder | AI Strategist" header → replaced with marketing-leadership identity matching the CV
+- "Available for strategic consulting, product partnerships, advisory" → gone; contradicts W2 story
+- DSCRT, SkyHound → ideas, not active; listing them as "building now" was inaccurate and read as divided attention
+- SaaSAI venture studio → down per Sheldon
+- PREYR → a low-touch Shopify dropship site he doesn't promote; not worth a "building now" slot (keep it as an interview anecdote about testing AI-powered retail, not a public commitment)
+- Defense/dual-use exploration bullets → moved out of public view; raise in conversation for Zone B roles instead
+- "What I'm Building Now" → reframed as "Proof I Ship," past-tense and outcome-driven
