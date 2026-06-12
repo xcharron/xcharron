@@ -25,14 +25,3 @@ I'm not a software engineer. I'm the marketing leader who understands engineers,
 
 - Portfolio: [sheldoncharron.com](https://sheldoncharron.com)
 - LinkedIn: [linkedin.com/in/sheldoncharron](https://linkedin.com/in/sheldoncharron)
-
----
-
-**Removed from the old version and why:**
-- "Head of Product | Serial Founder | AI Strategist" header → replaced with marketing-leadership identity matching the CV
-- "Available for strategic consulting, product partnerships, advisory" → gone; contradicts W2 story
-- DSCRT, SkyHound → ideas, not active; listing them as "building now" was inaccurate and read as divided attention
-- SaaSAI venture studio → down per Sheldon
-- PREYR → a low-touch Shopify dropship site he doesn't promote; not worth a "building now" slot (keep it as an interview anecdote about testing AI-powered retail, not a public commitment)
-- Defense/dual-use exploration bullets → moved out of public view; raise in conversation for Zone B roles instead
-- "What I'm Building Now" → reframed as "Proof I Ship," past-tense and outcome-driven
