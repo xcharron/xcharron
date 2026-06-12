@@ -1,12 +1,3 @@
-# GitHub README rewrite — draft for github.com/xcharron
-
-**Purpose:** make the profile safe and useful when recruiters find it. Marketing/brand leader who actually ships with AI. No consulting availability, no venture inventory, no divided-attention signals. Paste everything below the line into `xcharron/README.md`.
-
-Also update the short profile bio (left sidebar) to match. Suggested bio:
-> Marketing & brand leader. Founder of Enter360. I build with AI. Austin, TX.
-
----
-
 # Sheldon Charron
 
 **Marketing & Brand Leader | Founder, Enter360 | Builds with AI**
