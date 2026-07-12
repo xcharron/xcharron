@@ -68,8 +68,17 @@ Requirements:
 3. Agent stack for the site — build vs. buy for voice/phone, scheduling, content agents?
 4. How does this coexist with the W2 search — does the Texas positioning target employers too, or consulting only?
 
+## Asset status (as of 2026-07-12)
+
+- ✅ Enter360 Squarespace site scraped (index, content, copy) — in local project folder.
+- ✅ Portfolio project folder — local.
+- ⏳ Personal site (sheldoncharron.com) ZIP — pull pending.
+- ⏳ Everything above → private GitHub repo so all Claude sessions can reach it. See `docs/asset-migration.md`.
+- ⏳ Local WordPress + MCP so Claude can build/run WP sites. See `docs/wordpress-local-mcp.md`.
+
 ## Action list (rough priority)
 
+0. [ ] Push assets to a private `enter360-assets` repo + set up local WordPress/MCP (docs above — local-machine work).
 1. [ ] Inventory the Texas work: gather reels, case studies, assets for the six projects + SWFA.
 2. [ ] Decide brand architecture (Enter360 vs. Tally Strategies split).
 3. [ ] Write the Texas positioning story and pick 2–3 target verticals to lead with.
