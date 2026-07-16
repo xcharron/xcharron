@@ -40,4 +40,12 @@ Constraints are light and mostly about sequence, not method:
 - Get the "see my kitchen → talk about it → tell me what to cook" loop feeling
   genuinely good before anything else.
 
+Where this is headed (future direction, not the first version): a hands-free
+"cook along with me" mode. I prop the phone up, front camera on, and the
+assistant watches me prepare the meal over a live video + voice stream and
+coaches me in real time — "the pan's not hot enough yet," "that's enough
+onion," "you're about to burn the garlic." Same see-and-talk capabilities as
+the core loop, just pointed at a live feed instead of the fridge, and it teaches
+the shared engine real technique and timing, not just what's on the shelf.
+
 Start by telling me how you'd approach it and what the first version should be.
