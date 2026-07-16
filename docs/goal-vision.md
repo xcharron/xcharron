@@ -43,9 +43,12 @@ Constraints are light and mostly about sequence, not method:
 Where this is headed (future direction, not the first version): a hands-free
 "cook along with me" mode. I prop the phone up, front camera on, and the
 assistant watches me prepare the meal over a live video + voice stream and
-coaches me in real time — "the pan's not hot enough yet," "that's enough
-onion," "you're about to burn the garlic." Same see-and-talk capabilities as
-the core loop, just pointed at a live feed instead of the fridge, and it teaches
-the shared engine real technique and timing, not just what's on the shelf.
+coaches me in real time. The feel I want, verbatim: "One cup of sugar, two cups
+of milk. Keep whisking. Faster — you don't want it to burn." It's not reading a
+recipe at me; it's watching my hands, tracking where I am in the process, and
+talking like a cook standing at my shoulder — reactive, timed, hands-free. Same
+see-and-talk capabilities as the core loop, just pointed at a live feed instead
+of the fridge, and it teaches the shared engine real technique and timing, not
+just what's on the shelf.
 
 Start by telling me how you'd approach it and what the first version should be.
