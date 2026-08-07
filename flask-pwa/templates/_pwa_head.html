@@ -1,0 +1,24 @@
+{# Paste inside the <head> of your base template. #}
+
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0b0b0b">
+
+{# iOS ignores most of the manifest. These are what make an iPhone launch the
+   app chromeless instead of opening Safari. #}
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="YourApp">
+<link rel="apple-touch-icon" href="{{ url_for('static', filename='icons/icon-180.png') }}">
+
+<script>
+  // Registered after load so the worker never competes with the page for
+  // bandwidth on a first visit.
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register('/sw.js').catch(function (err) {
+        console.error('Service worker registration failed:', err);
+      });
+    });
+  }
+</script>
