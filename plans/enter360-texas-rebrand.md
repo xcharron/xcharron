@@ -29,7 +29,7 @@ Five to six of the biggest Enter360 projects were Texas clients:
 | David Tubb documentary | David Tubb (recently passed) | Canadian | Documentary |
 | Bryant Custom | Precision riflesmith | Wheeler | Documentary + rebrand + turnaround |
 
-Also: **SWFA** (anchor Umbilical/Enter360 client) is a Texas company — arguably the biggest Texas proof point of all. E-commerce went from ~$67K/month to ~$3M/month (≈45x). **Public copy says "40x+" only — don't quote the dollar figures.** EPI is the LA anchor.
+Also: **SWFA** (anchor Umbilical/Enter360 client) is a Texas company — arguably the biggest Texas proof point of all. E-commerce went from ~$67K/month to ~$3M/month (≈45x) in the first ~19–24 months, then the relationship ran another ~5 years (~7 total) and expanded them into brick-and-mortar; final revenue at in-house handoff unknown. **Public copy: "40x+ to eight figures a year within two years" — don't quote dollar figures.** EPI is the LA anchor.
 
 **Positioning line to develop:** "I did Texas's work from LA for 25 years. Now I live here."
 
