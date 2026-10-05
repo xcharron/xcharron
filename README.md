@@ -11,7 +11,7 @@ I'm not a software engineer. I'm the marketing leader who understands engineers,
 ## Proof I Ship
 
 - **[CallTune AI](https://www.calltuneai.com)** - AI sound-design platform for predator hunting and wildlife work. I took it from idea to paying subscribers by directing AI agents and a small dev team, then engineered it to run itself. It needs almost no time from me now, which was the point.
-- **Umbilical Software** - founded the company, led the team that built an enterprise e-commerce and order-management platform, and commercialized it as SaaS. Anchor client SWFA grew 500x in 18 months.
+- **Umbilical Software** - founded the company, led the team that built an enterprise e-commerce and order-management platform, and commercialized it as SaaS. Anchor client SWFA grew e-commerce revenue 40x+ in 18 months.
 - **Enter360** - 20+ years leading brand, campaign, broadcast, and platform work for clients like FoxPro and SWFA, from packaging to e-commerce to documentary television.
 - The contribution graph below is what a marketer who builds actually looks like.
 
