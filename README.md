@@ -18,10 +18,10 @@ PREYR started as an experiment to find out how far AI-directed development could
 
 For more than 25 years I ran Enter360, a brand and marketing agency with a creative team and a development team under one roof. I am bringing that work in-house now, into one company.
 
-- **FOXPRO**: six years as agency of record. Took them to number one market share in predator calling.
+- **[FOXPRO](https://sheldoncharron.com/work/dominate/)**: six years as agency of record. Took them to number one market share in predator calling.
 - **SWFA**: scaled online sales 40x in 18 months and built the Super Sniper optics brand.
-- **Umbilical Software**: founded, built and sold an enterprise e-commerce and order-management platform.
-- **Television**: created, produced and directed series and documentaries for network television and Amazon Prime.
+- **[Umbilical Software](https://sheldoncharron.com/work/innovate/umbilical-software/)**: founded, built and sold an enterprise e-commerce and order-management platform.
+- **[Television](https://sheldoncharron.com/work/captivate/)**: created, produced and directed series and documentaries for network television and Amazon Prime.
 
 ## Find me
 
